@@ -1,0 +1,14 @@
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/bin/Debug/net9.0/DataTypes
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/bin/Debug/net9.0/DataTypes.deps.json
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/bin/Debug/net9.0/DataTypes.runtimeconfig.json
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/bin/Debug/net9.0/DataTypes.dll
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/bin/Debug/net9.0/DataTypes.pdb
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfoInputs.cache
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfo.cs
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/DataTypes.dll
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/refint/DataTypes.dll
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/DataTypes.pdb
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/DataTypes.genruntimeconfig.cache
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/DataTypes/obj/Debug/net9.0/ref/DataTypes.dll
