@@ -1,0 +1,15 @@
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/bin/Debug/net9.0/OperatorsAndExpressions
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/bin/Debug/net9.0/OperatorsAndExpressions.deps.json
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/bin/Debug/net9.0/OperatorsAndExpressions.runtimeconfig.json
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/bin/Debug/net9.0/OperatorsAndExpressions.dll
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/bin/Debug/net9.0/OperatorsAndExpressions.pdb
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/OperatorsAndExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/OperatorsAndExpressions.AssemblyInfoInputs.cache
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/OperatorsAndExpressions.AssemblyInfo.cs
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/OperatorsAndExpressions.csproj.CoreCompileInputs.cache
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/OperatorsAndExpressions.sourcelink.json
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/OperatorsAndExpressions.dll
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/refint/OperatorsAndExpressions.dll
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/OperatorsAndExpressions.pdb
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/OperatorsAndExpressions.genruntimeconfig.cache
+/Users/mavliutov.eduard/Documents/Sharp/Git/csharp-course/OperatorsAndExpressions/obj/Debug/net9.0/ref/OperatorsAndExpressions.dll

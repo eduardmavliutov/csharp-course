@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OperatorsAndExpressions/1.0.0": {
+        "runtime": {
+          "OperatorsAndExpressions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperatorsAndExpressions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
